@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 if __name__ == "__main__":
     x = int(input("Please enter an integer: "))
