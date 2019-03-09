@@ -1,2 +1,2 @@
 # python_tutorial
-Python tutorial codes
+[Python3 tutorial](https://docs.python.org/3/tutorial/) codes
